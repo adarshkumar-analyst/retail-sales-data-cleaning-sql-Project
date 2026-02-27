@@ -1,4 +1,5 @@
 📊 **Retail Store Sales Data Cleaning Project**
+
 📌 Project Overview
 
 This project focuses on cleaning and standardizing a raw retail sales dataset using MySQL.
