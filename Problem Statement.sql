@@ -1,0 +1,26 @@
+-- =============================================================================
+--  PROJECT PROBLEM STATEMENT
+-- =============================================================================
+--
+-- The retail sales dataset was imported in raw format and contains
+-- inconsistencies, blank values, and incorrect data types.
+--
+-- Several columns such as Price_Per_Unit, Quantity, Total_Spent,
+-- and Transaction_Date were stored as VARCHAR instead of proper
+-- numeric and date formats.
+--
+-- Additionally, the dataset includes:
+--   • Empty (blank) values instead of NULLs
+--   • Missing product information
+--   • Inconsistent calculated totals
+--   • Date values stored in text format (DD-MM-YYYY)
+--
+-- OBJECTIVE:
+--   1. Identify and handle missing and blank values
+--   2. Standardize numeric and date columns
+--   3. Validate and correct calculated fields (Total_Spent)
+--   4. Ensure the dataset is clean, consistent, and analysis-ready
+--
+-- This project follows a structured data cleaning workflow
+-- using MySQL.
+-- =============================================================================
