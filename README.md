@@ -112,7 +112,7 @@ Power BI / Tableau Dashboard Development
 
 ## 👤 Author
 
-Adarsh Kumar 
+**Adarsh Kumar** 
 Data Analyst | SQL | Excel | Power BI | Data Cleaning & Transformation  
 
 Passionate about transforming raw data into structured,
